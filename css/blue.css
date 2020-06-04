@@ -1,0 +1,38 @@
+:root {
+    --title-color-blue: #5681bf;
+    --title-color-hover-blue: #628cc9;
+    --title-border-blue: 1px solid #5681bf;
+    --title-border-radius-blue: 8px;
+    --title-color-text-blue: #ffffff;
+    --title-active-border-radius-blue: 8px 8px 0px 0px;
+    --desc-border-blue: 1px solid #5681bf;
+    --desc-border-radius-blue: 0px 0px 8px 8px;
+    --desc-bg-color-blue: #ffffff;
+    --desc-color-text-blue: #111111;
+}
+
+.kalcifer_slider .title.blue{
+    border: var(--title-border-blue);
+    border-radius: var(--title-border-radius-blue);
+    background: var(--title-color-blue);
+    color: var(--title-color-text-blue);
+}
+
+.kalcifer_slider .title.blue:hover{
+    background: var(--title-color-hover-blue);
+}
+
+.kalcifer_slider .desc.blue{
+    border: var(--desc-border-blue);
+    border-radius: var(--desc-border-radius-blue);
+    background: var(--desc-bg-color-blue);
+    color: var(--desc-color-text-blue);
+}
+
+.kalcifer_slider .title.blue.active{
+    border-radius: var(--title-active-border-radius-blue);
+}
+
+.kalcifer_slider .title.blue.active:hover{
+    background: var(--title-color-blue);
+}

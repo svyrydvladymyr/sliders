@@ -1,0 +1,38 @@
+:root {
+    --title-color-green: #3ba83b;
+    --title-color-hover-green: #48b948;
+    --title-border-green: 1px solid #3ba83b;
+    --title-border-radius-green: 8px;
+    --title-color-text-green: #ffffff;
+    --title-active-border-radius-green: 8px 8px 0px 0px;
+    --desc-border-green: 1px solid #3ba83b;
+    --desc-border-radius-green: 0px 0px 8px 8px;
+    --desc-bg-color-green: #ffffff;
+    --desc-color-text-green: #111111;
+}
+
+.kalcifer_slider .title.green{
+    border: var(--title-border-green);
+    border-radius: var(--title-border-radius-green);
+    background: var(--title-color-green);
+    color: var(--title-color-text-green);
+}
+
+.kalcifer_slider .title.green:hover{
+    background: var(--title-color-hover-green);
+}
+
+.kalcifer_slider .desc.green{
+    border: var(--desc-border-green);
+    border-radius: var(--desc-border-radius-green);
+    background: var(--desc-bg-color-green);
+    color: var(--desc-color-text-green);
+}
+
+.kalcifer_slider .title.green.active{
+    border-radius: var(--title-active-border-radius-green);
+}
+
+.kalcifer_slider .title.green.active:hover{
+    background: var(--title-color-green);
+}

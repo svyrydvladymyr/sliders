@@ -1,0 +1,71 @@
+@import "green.css";
+@import "blue.css";
+@import "red.css";
+@import "grey.css";
+
+* {
+    box-sizing: border-box;
+}
+
+@keyframes show {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.kalcifer_slider{
+    position: relative; 
+    margin: 8px 0px;
+} 
+
+.kalcifer_slider .title{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    padding: 7px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    word-break: break-word;
+}
+
+.kalcifer_slider .desc{
+    display: none;
+    width: 100%;
+    min-height: 30px;
+    padding: 14px;
+    border-top: 0px solid;
+    word-break: break-word;
+}
+
+.kalcifer_slider .active + .desc{
+    display: block;
+    animation: show 0.7s forwards;
+}
+
+.kalcifer_slider .icon{
+    padding-left: 35px;
+}
+
+.kalcifer_slider .icon::before{
+    content: '+';
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    line-height: 0px;
+    margin-left: -26px;
+    border: 1px solid;
+    border-radius: 50%;
+    font-size: 16px;
+}
+
+.kalcifer_slider .icon.active::before{
+    content: '-';
+    align-items: start;
+    line-height: 11px;
+}
+
