@@ -1,0 +1,25 @@
+.kalcifer_slider .title.grey{
+    border: 1px solid #909090;
+    border-radius: 8px;
+    background: #909090;
+    color: #ffffff;
+}
+
+.kalcifer_slider .title.grey:hover{
+    background: #a5a4a4;
+}
+
+.kalcifer_slider .desc.grey{
+    border: 1px solid #909090;
+    border-radius: 0px 0px 8px 8px;
+    background: #ffffff;
+    color: #111111;
+}
+
+.kalcifer_slider .title.grey.active{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.kalcifer_slider .title.grey.active:hover{
+    background: #909090;
+}

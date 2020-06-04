@@ -1,7 +1,8 @@
-@import "green.css";
-@import "blue.css";
-@import "red.css";
-@import "grey.css";
+@import "templates/green.css";
+@import "templates/blue.css";
+@import "templates/red.css";
+@import "templates/grey.css";
+@import "templates/yellow.css";
 
 * {
     box-sizing: border-box;

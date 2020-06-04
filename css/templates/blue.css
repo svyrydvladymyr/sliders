@@ -1,0 +1,25 @@
+.kalcifer_slider .title.blue{
+    border: 1px solid #5681bf;
+    border-radius: 8px;
+    background: #5681bf;
+    color: #ffffff;
+}
+
+.kalcifer_slider .title.blue:hover{
+    background: #628cc9;
+}
+
+.kalcifer_slider .desc.blue{
+    border: 1px solid #5681bf;
+    border-radius: 0px 0px 8px 8px;
+    background: #ffffff;
+    color: #111111;
+}
+
+.kalcifer_slider .title.blue.active{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.kalcifer_slider .title.blue.active:hover{
+    background: #5681bf;
+}
