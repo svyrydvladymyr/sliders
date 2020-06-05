@@ -24,7 +24,7 @@ To body:
 </script>
 ```
 
-## The second way is to add markup to your document:
+### The second way is to add markup to your document:
 
 ```html
 <div class="kalcifer_slider">
@@ -38,6 +38,8 @@ To body:
      </div>
 </div> 
 ```
+
+## About color schemes
 
 Color schemes for each slider can be set individually. To do this, you need to change the color class in the slider. There are the following color schemes: ``` blue, green, red, gray, yellow ```.
 
