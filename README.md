@@ -2,7 +2,7 @@
 
 ## How to use
 
-The first way is with jQuery:
+The first way using jQuery:
 
 ```python
     <link rel="stylesheet" href="css/style.css">
@@ -13,4 +13,17 @@ The first way is with jQuery:
     <script>
         $(function(){ $(".slider").load("slider.html"); });
     </script>
+```
+The second way is to add markup to your document:
+```python
+                <div class="kalcifer_slider">
+                    <p class="title blue">Title</p>
+                    <div class="desc blue">            
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsum fugit temporibus nemo esse quisquam possimus nesciunt, reprehenderit numquam odio sequi? Omnis aliquam at consequuntur quod enim ullam ab in?</p>
+                    </div>
+                    <p class="title blue">Title</p>
+                    <div class="desc blue">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsum fugit temporibus nemo esse quisquam possimus nesciunt, reprehenderit numquam odio sequi? Omnis aliquam at consequuntur quod enim ullam ab in?</p>
+                    </div>
+                </div> 
 ```
