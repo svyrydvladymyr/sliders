@@ -101,6 +101,10 @@ Change the color scheme styles to the ones that suit you.
 </div> 
 ```
 
-## Slider with a tick
+## See a sample slider
 
 Moved to [svyrydvladymyr.github.io/sliders/](https://svyrydvladymyr.github.io/sliders/)
+
+## License
+
+
