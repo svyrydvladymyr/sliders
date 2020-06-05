@@ -6,9 +6,7 @@ The template has five color schemes. You can change each pattern as you like, an
 
 # How to use
 
-## The first way using jQuery:
 ### The first way using jQuery:
-#### The first way using jQuery:
 
 To header:
 
@@ -41,6 +39,6 @@ To body:
 </div> 
 ```
 
-
+Color schemes for each slider can be set individually. To do this, you need to change the color class in the slider. There are the following color schemes: ```python blue, green, red, gray, yellow ```.
 
 
