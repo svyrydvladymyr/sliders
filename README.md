@@ -55,38 +55,38 @@ Color schemes for each slider can be set individually. To do this, you need to c
 
 Create a color scheme file.
 
-``` name.css ```
+``` __your class name__.css ```
 
 Import into the main color scheme.
 
-``` @import "templates/name.css"; ``
+``` @import "templates/name.css"; ```
 
 Change the color scheme styles to the ones that suit you.
 
 ```css
-.kalcifer_slider.blue > .title{
+.kalcifer_slider.__your class name__ > .title{
     border: 1px solid #5681bf;
     border-radius: 8px;
     background: #5681bf;
     color: #ffffff;
 }
 
-.kalcifer_slider.blue > .title:hover{
+.kalcifer_slider.__your class name__ > .title:hover{
     background: #628cc9;
 }
 
-.kalcifer_slider.blue > .desc{
+.kalcifer_slider.__your class name__ > .desc{
     border: 1px solid #5681bf;
     border-radius: 0px 0px 8px 8px;
     background: #ffffff;
     color: #111111;
 }
 
-.kalcifer_slider.blue > .title.active{
+.kalcifer_slider.__your class name__ > .title.active{
     border-radius: 8px 8px 0px 0px;
 }
 
-.kalcifer_slider.blue > .title.active:hover{
+.kalcifer_slider.__your class name__ > .title.active:hover{
     background: #5681bf;
 }
 ```
