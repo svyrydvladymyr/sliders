@@ -6,7 +6,7 @@ The template has five color schemes. You can change each pattern as you like, an
 
 # How to use
 
-### The first way using jQuery:
+#### The first way using jQuery:
 
 To header:
 
@@ -24,7 +24,7 @@ To body:
 </script>
 ```
 
-### The second way is to add markup to your document:
+#### The second way is to add markup to your document:
 
 ```html
 <div class="kalcifer_slider">
