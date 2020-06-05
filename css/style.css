@@ -44,11 +44,11 @@
     animation: show 0.7s forwards;
 }
 
-.kalcifer_slider .icon{
+.kalcifer_slider.icon > .title{
     padding-left: 35px;
 }
 
-.kalcifer_slider .icon::before{
+.kalcifer_slider.icon > .title::before{
     content: '+';
     display: flex;
     flex-wrap: wrap;
@@ -64,7 +64,7 @@
     font-size: 16px;
 }
 
-.kalcifer_slider .icon.active::before{
+.kalcifer_slider.icon > .title.active::before{
     content: '-';
     align-items: start;
     line-height: 11px;

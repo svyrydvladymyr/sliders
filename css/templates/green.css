@@ -1,25 +1,25 @@
-.kalcifer_slider .title.green{
+.kalcifer_slider.green > .title{
     border: 1px solid #3ba83b;
     border-radius: 8px;
     background: #3ba83b;
     color: #ffffff;
 }
 
-.kalcifer_slider .title.green:hover{
+.kalcifer_slider.green > .title:hover{
     background: #48b948;
 }
 
-.kalcifer_slider .desc.green{
+.kalcifer_slider.green > .desc{
     border: 1px solid #3ba83b;
     border-radius: 0px 0px 8px 8px;
     background: #ffffff;
     color: #111111;
 }
 
-.kalcifer_slider .title.green.active{
+.kalcifer_slider.green > .title.active{
     border-radius: 8px 8px 0px 0px;
 }
 
-.kalcifer_slider .title.green.active:hover{
+.kalcifer_slider.green > .title.active:hover{
     background: #3ba83b;
 }

@@ -1,25 +1,25 @@
-.kalcifer_slider .title.yellow{
+.kalcifer_slider.yellow > .title{
     border: 1px solid #e4a900;
     border-radius: 8px;
     background: #e4a900;
     color: #ffffff;
 }
 
-.kalcifer_slider .title.yellow:hover{
+.kalcifer_slider.yellow > .title:hover{
     background: #f3b70d;
 }
 
-.kalcifer_slider .desc.yellow{
+.kalcifer_slider.yellow > .desc{
     border: 1px solid #e4a900;
     border-radius: 0px 0px 8px 8px;
     background: #ffffff;
     color: #111111;
 }
 
-.kalcifer_slider .title.yellow.active{
+.kalcifer_slider.yellow > .title.active{
     border-radius: 8px 8px 0px 0px;
 }
 
-.kalcifer_slider .title.yellow.active:hover{
+.kalcifer_slider.yellow > .title.active:hover{
     background: #e4a900;
 }
