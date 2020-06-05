@@ -107,4 +107,4 @@ Moved to [svyrydvladymyr.github.io/sliders/](https://svyrydvladymyr.github.io/sl
 
 ## License
 
-[![Netlify Status](https://github.com/svyrydvladymyr/sliders/blob/master/LICENSE)
+[MIT](https://github.com/svyrydvladymyr/sliders/blob/master/LICENSE)
