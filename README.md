@@ -8,7 +8,7 @@ The template has five color schemes. You can change each pattern as you like, an
 
 #### The first way using jQuery:
 
-To header:
+To head:
 
 ```javascript
 <link rel="stylesheet" href="sliders/css/style.css">
@@ -53,7 +53,7 @@ Color schemes for each slider can be set individually. To do this, you need to c
 
 Create a color scheme file.
 
-``` (your_class_name).css ```
+``` (your_file_name).css ```
 
 Import into the main color scheme.
 
