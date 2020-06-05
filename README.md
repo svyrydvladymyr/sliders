@@ -1,8 +1,8 @@
 # KALCIFER SLIDERS
 
 The slider template is simple and versatile. 
-You can add as many slider blocks to a page as you like. You can also invest in each other without restrictions.
-The template has five color schemes that you can change and you can add your own.
+You can add as many slider blocks to a page as you like. You can also insert in each other without restrictions.
+The template has five color schemes. You can change each pattern as you like, and you can add your own color scheme.
 
 ## How to use
 
