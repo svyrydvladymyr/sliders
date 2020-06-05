@@ -1,8 +1,12 @@
 # KALCIFER SLIDERS
 
+The slider template is simple and versatile. 
+You can add as many slider blocks to a page as you like. You can also invest in each other without restrictions.
+The template has five color schemes that you can change and you can add your own.
+
 ## How to use
 
-The first way using jQuery:
+## The first way using jQuery:
 
 To header:
 
@@ -20,7 +24,7 @@ To body:
 </script>
 ```
 
-The second way is to add markup to your document:
+## The second way is to add markup to your document:
 
 ```python
 <div class="kalcifer_slider">
@@ -35,7 +39,6 @@ The second way is to add markup to your document:
 </div> 
 ```
 
-You can add as many slider blocks to a page as you like. You can also invest in each other without restrictions.
-The template has five color schemes that you can change and you can add your own.
+
 
 
