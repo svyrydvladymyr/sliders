@@ -51,11 +51,11 @@ Color schemes for each slider can be set individually. To do this, you need to c
 </div> 
 ```
 
-#### Також ви можете створити свою кольорову схему.
+#### You can also create your own color scheme.
 
 Create a color scheme file.
 
-``` __your class name__.css ```
+``` (your_class_name).css ```
 
 Import into the main color scheme.
 
@@ -64,30 +64,31 @@ Import into the main color scheme.
 Change the color scheme styles to the ones that suit you.
 
 ```css
-.kalcifer_slider.__your class name__ > .title{
+.kalcifer_slider.(your_class_name) > .title{
     border: 1px solid #5681bf;
     border-radius: 8px;
     background: #5681bf;
     color: #ffffff;
 }
 
-.kalcifer_slider.__your class name__ > .title:hover{
+.kalcifer_slider.(your_class_name) > .title:hover{
     background: #628cc9;
 }
 
-.kalcifer_slider.__your class name__ > .desc{
+.kalcifer_slider.(your_class_name) > .desc{
     border: 1px solid #5681bf;
     border-radius: 0px 0px 8px 8px;
     background: #ffffff;
     color: #111111;
 }
 
-.kalcifer_slider.__your class name__ > .title.active{
+.kalcifer_slider.(your_class_name) > .title.active{
     border-radius: 8px 8px 0px 0px;
 }
 
-.kalcifer_slider.__your class name__ > .title.active:hover{
+.kalcifer_slider.(your_class_name) > .title.active:hover{
     background: #5681bf;
 }
 ```
 
+# Slider with a tick
