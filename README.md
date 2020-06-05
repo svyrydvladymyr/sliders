@@ -4,17 +4,24 @@
 
 The first way using jQuery:
 
+To header:
+
 ```python
 <link rel="stylesheet" href="css/style.css">
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 ```
+
+To body:
+
 ```python
 <div class="slider"></div>
 <script>
     $(function(){ $(".slider").load("slider.html"); });
 </script>
 ```
+
 The second way is to add markup to your document:
+
 ```python
 <div class="kalcifer_slider">
      <p class="title blue">Title</p>
@@ -27,3 +34,8 @@ The second way is to add markup to your document:
      </div>
 </div> 
 ```
+
+You can add as many slider blocks to a page as you like. You can also invest in each other without restrictions.
+The template has five color schemes that you can change and you can add your own.
+
+
