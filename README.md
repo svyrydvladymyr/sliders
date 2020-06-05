@@ -39,6 +39,6 @@ To body:
 </div> 
 ```
 
-Color schemes for each slider can be set individually. To do this, you need to change the color class in the slider. There are the following color schemes: ```python blue, green, red, gray, yellow ```.
+Color schemes for each slider can be set individually. To do this, you need to change the color class in the slider. There are the following color schemes: ```bash blue, green, red, gray, yellow ```.
 
 
