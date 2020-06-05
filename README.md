@@ -27,13 +27,13 @@ To body:
 #### The second way is to add markup to your document:
 
 ```html
-<div class="kalcifer_slider">
-     <p class="title blue">Title</p>
-     <div class="desc blue">            
+<div class="kalcifer_slider blue">
+     <p class="title">Title</p>
+     <div class="desc">            
         <p>Text</p>
      </div>
-     <p class="title blue">Title</p>
-     <div class="desc blue">
+     <p class="title">Title</p>
+     <div class="desc">
          <p>Text</p>
      </div>
 </div> 
@@ -46,7 +46,7 @@ Color schemes for each slider can be set individually. To do this, you need to c
 #### To change, you need to replace the slider wrapper class.
 
 ```html
-<div class="kalcifer_slider">
+<div class="kalcifer_slider ``` blue ```">
     ...
 </div> 
 ```
