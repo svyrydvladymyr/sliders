@@ -43,4 +43,12 @@ To body:
 
 Color schemes for each slider can be set individually. To do this, you need to change the color class in the slider. There are the following color schemes: ``` blue, green, red, gray, yellow ```.
 
+#### To change, you need to replace the slider wrapper class.
+
+```html
+<div class="kalcifer_slider">
+    ...
+</div> 
+```
+
 
