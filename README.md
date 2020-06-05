@@ -1,2 +1,3 @@
-# kalcifer sliders
-## HOW TO USE
+# KALCIFER SLIDERS
+
+## How to use
