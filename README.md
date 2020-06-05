@@ -10,14 +10,14 @@ The template has five color schemes. You can change each pattern as you like, an
 
 To header:
 
-```python
+```
 <link rel="stylesheet" href="css/style.css">
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 ```
 
 To body:
 
-```python
+```
 <div class="slider"></div>
 <script>
     $(function(){ $(".slider").load("slider.html"); });
