@@ -11,17 +11,15 @@ The template has five color schemes. You can change each pattern as you like, an
 To header:
 
 ```javascript
-<link rel="stylesheet" href="css/style.css">
-<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<link rel="stylesheet" href="sliders/css/style.css">
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 ```
 
 To body:
 
 ```javascript
 <div class="slider"></div>
-<script>
-    $(function(){ $(".slider").load("slider.html"); });
-</script>
+<script> $(".slider").load("sliders/slider.html"); </script>
 ```
 
 #### The second way is to add markup to your document:

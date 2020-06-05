@@ -6,9 +6,3 @@ for (let i = 0; i < event.length; i++) {
         !active_sl ? this.classList.toggle(active) : null;
     });    
 }
-
-
-
-
-
-
