@@ -26,7 +26,7 @@ To body:
 
 ## The second way is to add markup to your document:
 
-```python
+```html
 <div class="kalcifer_slider">
      <p class="title blue">Title</p>
      <div class="desc blue">            
