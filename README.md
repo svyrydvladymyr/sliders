@@ -91,7 +91,7 @@ Change the color scheme styles to the ones that suit you.
 
 ## Slider with a tick
 
-#### To see a tick in the slider, you need to add a class ``` icon ``` to the slider wrapper.
+#### To see the icon in the slider, you need to add a class ``` icon ``` to the slider wrapper.
 
 ```html
 <div class="kalcifer_slider blue icon">
