@@ -89,7 +89,7 @@ Change the color scheme styles to the ones that suit you.
 }
 ```
 
-## Slider with a tick
+## Slider with a ``` icon ```
 
 #### To see the icon in the slider, you need to add a class ``` icon ``` to the slider wrapper.
 
