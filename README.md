@@ -106,3 +106,7 @@ Moved to [svyrydvladymyr.github.io/sliders/](https://svyrydvladymyr.github.io/sl
 ## License
 
 [MIT](https://github.com/svyrydvladymyr/sliders/blob/master/LICENSE)
+
+## Open in Cloud Shell
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://svyrydvladymyr.github.io/sliders.git)
